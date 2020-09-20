@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">week1_MAD</string>
+    <string name="name">Name</string>
+    <string name="age">Age</string>
+    <string name="edituser">Edit user</string>
+    <string name="inadress">inAdress</string>
+    <string name="inAdress">Adress</string>
+    <string name="inName">Name</string>
+    <string name="inAge">Age</string>
+    <string name="updateuser">Update</string>
+</resources>
